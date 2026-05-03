@@ -1,3 +1,6 @@
+Developer Name: MUHAMMAD ABDULLAH ARIF
+https://github.com/muhammadabdullaharif-pythonProgrammer
+
 # 🎓 Smart Learning Management System (SLMS)
 ### AI-Powered FYP using Streamlit + SQLite + Scikit-learn
 
